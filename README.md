@@ -69,6 +69,9 @@ All visualizations in this project were created using **R programming language**
 
 All visualizations in this project were created using **R programming language**, specifically the `ggplot2` package within the **tidyverse** ecosystem. The graphs illustrate the temporal trends in DALYs (Disability-Adjusted Life Years) across different liver diseases in Australia from 2003 to 2023.
 
+👉 [Click here to view the full PDF](https://github.com/rabiya-PHproject/Liver-Disease-Burden-in-Australia/blob/main/Liver%20DALY%20Trend%20in%20Australia.pdf)
+
+
 ### 📄 Downloadable Visualization (PDF)
 
 👉 [Click here to view/download the full DALY trend visualization (PDF)](./Liver_Disease_DALY_Trends.pdf)
