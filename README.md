@@ -68,6 +68,19 @@ All visualizations in this project were created using **R programming language**
 
 👉 [Click here to view the full PDF](https://github.com/rabiya-PHproject/Liver-Disease-Burden-in-Australia/blob/main/Liver%20DALY%20Trend%20in%20Australia.pdf)
 
+## 📂 R Script: Liver DALY Analysis Code
+
+The `Liver_DALY_Analysis.R` script contains the full R code used to prepare, filter, and visualise the burden of disease data for liver conditions in Australia from 2003 to 2023.
+
+🧪 This script includes:
+- Data cleaning and wrangling with `dplyr`
+- Selection of relevant disease groups (chronic liver disease, liver cancer, etc.)
+- Visualisation using `ggplot2`
+- Exporting graphs as high-quality PDF
+
+👉 [Click here to view the full R script on GitHub](https://github.com/rabiya-PHproject/Liver-Disease-Burden-in-Australia/blob/main/Liver_DALY_Analysis.R)
+
+
 
 ## Contact  
 For questions or collaboration, please contact:  
