@@ -28,7 +28,7 @@
 ## 🛠️ Tools Used
 - **R & RStudio**: Data cleaning, manipulation, and visualization using `tidyverse`, `dplyr`, and `ggplot2`  
 - **Microsoft Excel**: Initial exploratory data review and pivot tables  
-- **Canva (planned)**: For designing summary infographic and visual reports
+- **Canva**: For designing summary infographic and visual reports
 
 ---
 
@@ -56,7 +56,8 @@ This project demonstrates a **reproducible, transparent, and data-driven approac
 ---
 
 ## 📄 Project Infographic  
-[Click here to view the infographic (PDF)](./Liver_Disease_Burden_Infographic.pdf)
+[Download Infographic Liver Disease (PDF)](Infographic%20Liver%20Disease.pdf)
+
 
 ---
 
