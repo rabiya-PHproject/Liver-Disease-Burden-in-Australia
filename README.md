@@ -55,9 +55,10 @@ This project demonstrates a **reproducible, transparent, and data-driven approac
 
 ---
 
-## 📄 Project Infographic  
-[Download Infographic Liver Disease (PDF)](Infographic%20Liver%20Disease.pdf)
+## 📄 Project Infographic
 
+You can download and view the infographic in PDF format here:  
+[Download Infographic Liver Disease (PDF)](Infographic%20Liver%20Disease.pdf)
 
 ---
 
